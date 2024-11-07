@@ -194,14 +194,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - React and Express.js for their easy-to-use frameworks for frontend and backend development.
 ```
 
----
-
-### Key Points in the README:
-
-1. **Project Structure**: Describes the organization of the frontend and backend code.
-2. **Setup Instructions**: Guides on how to set up the backend and frontend, install dependencies, and configure environment variables for API keys.
-3. **Run Instructions**: Explains how to start both servers and interact with the chatbot.
-4. **Error Handling**: Describes common errors and their resolution.
-5. **Future Improvements**: Lists potential features to enhance the chatbot further.
-
-Let me know if you need any modifications or additional sections for the README!
