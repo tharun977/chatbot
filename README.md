@@ -192,5 +192,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - OpenAI for providing the GPT-3.5/4 API.
 - React and Express.js for their easy-to-use frameworks for frontend and backend development.
-```
 
